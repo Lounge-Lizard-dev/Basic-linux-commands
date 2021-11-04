@@ -1,0 +1,20 @@
+h2 {
+  color: #26a69a;
+  font-weight: 300; 
+}
+
+.container {
+  width: 900px;
+}
+
+.bash {
+  color:#26a69a;
+}
+
+.order-table td:first-child, .order-table td:nth-child(3) {
+  font-family: Inconsolata, serif;
+}
+
+.order-table td:first-child {
+  font-weight: 700;
+}
